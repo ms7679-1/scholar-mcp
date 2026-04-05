@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Documented config options
 - Fixed off-by-one error in loop
+
+## 2026-04-06
+- Added inline documentation for core functions
